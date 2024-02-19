@@ -2,12 +2,12 @@
 
 
 .congratulations {
-    color:rgb(89, 0, 255);
+    color: rgb(89, 0, 255);
 }
 
 img {
-    height: auto;
-    width: 25px;
     border-style:double;
     border-radius: 15px;
+    height: auto;
+    width: 25px;
 }
