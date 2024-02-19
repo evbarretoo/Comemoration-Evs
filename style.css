@@ -16,3 +16,7 @@ img {
     background-image: -ms-linear-gradient(left,#ea8711,#d96363,#73a6df,#9085fb,#52ca79);
     background-image: -o-linear-gradient(left,#ea8711,#d96363,#73a6df,#9085fb,#52ca79);
   }
+
+marquee {
+    color: red;
+}
