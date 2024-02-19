@@ -1,14 +1,13 @@
+
+
+
+.congratulations {
+    color:rgb(89, 0, 255);
+}
+
 img {
     height: auto;
     width: 25px;
     border-style:double;
     border-radius: 15px;
-}
-
-.titulo {
-    color:rgb(89, 0, 255)
-}
-
-h1 {
-    color:rgb(17, 0, 255)
 }
