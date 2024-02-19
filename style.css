@@ -11,7 +11,7 @@ img {
     height: auto;
     width: 25px;
 }
-h1 {
+.texto-c{
     font-size:36px;
     -webkit-background-clip: text;
     color: white;
