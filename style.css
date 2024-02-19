@@ -1,6 +1,10 @@
-img {
-    border-style:double;
-    border-radius: 15px;
-    height: auto;
-    width: 25px;
+h1{
+    border: 10px solid cornflowerblue;
+    font-size: 40px;
+    background-color: rgb(150, 215, 255);
+}
+img{
+    border: 15px solid black;
+    border-radius: 20px;
+    border-style: double;
 }
